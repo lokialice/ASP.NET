@@ -1,0 +1,6 @@
+C:\Users\phi.hoang\Desktop\SystemLazyObject\SystemLazyObject\bin\Debug\SystemLazyObject.exe.config
+C:\Users\phi.hoang\Desktop\SystemLazyObject\SystemLazyObject\bin\Debug\SystemLazyObject.exe
+C:\Users\phi.hoang\Desktop\SystemLazyObject\SystemLazyObject\bin\Debug\SystemLazyObject.pdb
+C:\Users\phi.hoang\Desktop\SystemLazyObject\SystemLazyObject\obj\Debug\SystemLazyObject.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\SystemLazyObject\SystemLazyObject\obj\Debug\SystemLazyObject.exe
+C:\Users\phi.hoang\Desktop\SystemLazyObject\SystemLazyObject\obj\Debug\SystemLazyObject.pdb
